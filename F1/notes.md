@@ -201,6 +201,7 @@ The total expenditure in the economy for a period. It is essentially the total d
 
 ## Aggregate Supply
 The real value of the total output an economy can produce in a period.
+
 ![](https://s3.amazonaws.com/wmx-api-production/courses/53192/images/asdasd%207.PNG)
 
 ## DETERMINANTS OF AGGREGATE SUPPLY
@@ -224,4 +225,19 @@ The fluctuations in economic activity over time, characterised by states of expa
 
 ![](https://s3.amazonaws.com/wmx-api-production/courses/53192/images/asdasd%2010.PNG)
 
-![](../images/economic-cycle-summary.png)
+![](https://github.com/ebesojoseph/acca-notes-materials/raw/main/images/economic-cycle-summary.png)
+
+## 3.1 Macroeconomic polixy Aim: Economic Growth
+
+
+The technical explanation is that excessive use of credit increases AD beyond what available supply can support, driving up prices and reducing available supply (more money chasing limited goods).
+
+Eventually, the economy (GDP) will attempt to return to its equilibrium GDP, as dictated by AD and AS.
+ ## 4.1 Controlled inflation
+ - __inflation__ - an increase in prices of goods and services over time.
+ - __deflation__ - a decrease in prices for goods and services over time.
+
+
+## Measuring Inflation
+
+![](../images/consumer price index.png)
